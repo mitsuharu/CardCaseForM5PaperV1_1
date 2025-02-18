@@ -2,6 +2,10 @@
 
 SD カードに保存した画像をボタンタップで切り替えて表示します。いろんな画像を保存して、シーンに合わせて画像を切り替えましょう。
 
+## Demo
+
+[![動作デモ動画](README_Images/thumbnail.png)](https://www.youtube.com/watch?v=pW5wz32YIJc)
+
 
 ## Requirements
 
